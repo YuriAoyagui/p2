@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10vh 0 0 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(226, 242, 247);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(173, 216, 230);
+    border-radius: 15px;
+    gap: 20px;
+    padding: 20px;
+    width: 25vw;
+}
+
+form input {
+    width: 16vw;
+}
+
+h1 {
+    color: rgb(33, 188, 240);
+}

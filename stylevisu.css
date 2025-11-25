@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+table {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    background-color: rgb(173, 216, 230);
+    padding: 5px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td {
+    border-top: 1px solid rgb(0, 0, 0);
+    background-color: rgb(214, 237, 247);
+    border-radius: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+th{
+    padding: 5px;
+}
+
+h1 {
+    color: rgb(52, 176, 228);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(173, 216, 230);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+
